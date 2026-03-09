@@ -300,7 +300,7 @@ export type { ButtonProps } from './Button'
 
 ## 📄 Licença
 
-MIT © [Vitor Ramos](https://github.com/seu-usuario)
+MIT © [Vitor Ramos](https://github.com/WhenIPKMyRR)
 
 ---
 
